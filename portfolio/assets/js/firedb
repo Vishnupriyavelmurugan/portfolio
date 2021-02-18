@@ -1,0 +1,12 @@
+var firebaseConfig = {
+    apiKey: "AIzaSyC0cB97hi0sebAOz58KuglxQ51TGbuRv-o",
+    authDomain: "portfolio-198a7.firebaseapp.com",
+    projectId: "portfolio-198a7",
+    storageBucket: "portfolio-198a7.appspot.com",
+    messagingSenderId: "346715480771",
+    appId: "1:346715480771:web:1aba70e996d22d49acf876",
+    measurementId: "G-H0LY3GTB29"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
